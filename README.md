@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kasey, I have Graduated with BSc Computer Science in 2020 and I am working as a Software Engineer at Civica
+- 👋 Hi, I’m Kasey,
 - 👀 I’m interested in developing my Front-End Software devlopment skills 
 - 🌱 I’m currently learning .NET, ASP, WPF
 <!---- 💞️ I’m looking to collaborate on ... --->
